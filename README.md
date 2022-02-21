@@ -1,6 +1,6 @@
-## Your Name
+## Kenny Sweeney-Baird
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After finishing a degree in ancient Roman and Greek history, I realised that despite being interested in many subjects, working in tech was closest to who I was. Learning how to learn was a crucial takeaway from university, and I wanted to apply this to programming which gives the creative freedom to explore my interests. Technical expertise is the most enabling skill of the 21st century and I knew I had to be part of it.
 
 ## Projects
 
@@ -36,7 +36,11 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Efficient learning
+
+When faced with a new topic I am unfamilliar with, I can research what the most effective way to learn it is, identify subgoals and consistently work to improve it.
+For example, when learning OOP and design patterns for the first time I asked more experienced people what was the best way to learn it. After receiving book recommendations, I read, noted, and practiced implementing them, aiming to understand the topic to commit it to memory.
+
 
 - Experience
 - Achievements
@@ -62,11 +66,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### King's College London 2019-2021
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Classical Studies 
+- 1st
 
 #### Any other qualifications
 

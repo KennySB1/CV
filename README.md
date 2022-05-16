@@ -1,14 +1,17 @@
-## Kenny Sweeney-Baird
+<h1> Kenny Sweeney-Baird </h1>
+Projects | Soft Skills | Tech Skills | Additional Skills | Education | Experience | Interests | Contact Details
 
-After finishing a degree in ancient Roman and Greek history, I realised that despite being interested in many subjects, working in tech was closest to who I was. Learning how to learn was a crucial takeaway from university, and I wanted to apply this to programming which gives the creative freedom to explore my interests. Technical expertise is the most enabling skill of the 21st century and I knew I had to be part of it.
 
-## Projects
+One year ago, I had just finished university and I realised that working in tech was where I needed to be. So, I joined the Makers Academy Bootcamp to make the switch and am now pursuing my first job as a junior software developer. I'm currently working hard to develop my technical skills, coding process, and application process to make the life I want a reality.
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+# Projects
 
+| Name                         | Description       | Tech/tools        | Repo link |
+| ---------------------------- | ----------------- | ----------------- |------------ |
+| **Pommodores timer**         | A webapp to help reduce burnout when working. | MERN, CD, mongo cloud  | [Pomodoro timer](https://github.com/KennySB1/pommodores-timer) |
+| **Quackbook** | A facebook clone built using javascript | MEHN stack              | [Quackbook](https://github.com/KennySB1/acebook-quack-overflow) |
+|**Makers BNB** | An AirBNB clone built using ruby and sinatra | Ruby, Sinatra, PostgreSQL | [MakersBNB](https://github.com/KennySB1/MakersBnB)
+<!-- 
 ## Work Experience
 
 **Company Name** (start-date to end-date)  
@@ -20,50 +23,29 @@ _Your job title_
 _Your job title_
 
 - Any experience relevent to software development
+-->
+## Tech Skills
+* HTML, CSS, JavaScript, Jest, MERN stack
+* Ruby, Sinatra
+* MongoDB/PostgreSQL
+* CD with Render
+* Command line, git, github
 
-## Skills
+## Soft Skills
+* Growth mindset and enthusiasm to learn
+* Calm communication and conflict resolution
+* Methodical approach to problem understanding and solving
+* Eager to work in a team, accept feedback, and learn from others
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### Efficient learning
-
-When faced with a new topic I am unfamilliar with, I can research what the most effective way to learn it is, identify subgoals and consistently work to improve it.
-For example, when learning OOP and design patterns for the first time I asked more experienced people what was the best way to learn it. After receiving book recommendations, I read, noted, and practiced implementing them, aiming to understand the topic to commit it to memory.
-
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (February 2022 to May 2022)
+- 16 Week bootcamp focusing on TDD, full stack Javascript applications
+- Pair Programming
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Agile working methodology
+- Jest, Rspec, Cypress
 - RSpec, Jasmine
 
 #### King's College London 2019-2021
@@ -71,10 +53,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Classical Studies 
 - 1st
 
+<!-- 
+
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
-
+-->
 ## Hobbies
+* Bouldering
+* Reading
 
-Any cool stuff that makes you a super part of a software development team
+## Contact Details
+[Linkedin](https://www.linkedin.com/in/kenny-sweeney-baird-619292200/)

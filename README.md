@@ -1,6 +1,6 @@
 <h1> Kenny Sweeney-Baird </h1>
 
-[Projects](#projects) | [Tech Skills](#techskills) | [Soft Skills](#soft-skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Contact Details](#contact)
 
 
 One year ago, I had just finished university and I realised that working in tech was where I needed to be. So, I joined the Makers Academy Bootcamp to make the switch and am now pursuing my first job as a junior software developer. I'm currently working hard to develop my technical skills, coding process, and application process to make the life I want a reality.
@@ -24,20 +24,23 @@ _Your job title_
 _Your job title_
 
 - Any experience relevent to software development
--->
+
 ## <h2 id="techskills"> Tech Skills </h2>
 * HTML, CSS, JavaScript, Jest, MERN stack
 * Ruby, Sinatra
 * MongoDB/PostgreSQL
 * CD with Render
 * Command line, git, github
+-->
+## <h2 id="skills">Skills</h2>
+<h3>Positive communication</h3>
+<p>During our second project at makers teammates were tired and getting overwhelmed by the work. I immediately calmed people down, noting we were low on energy but had made progress. When leading that day’s retro, I emphasised what we had achieved in spite of a difficult project and managed to reframe that day. This helped manage stress and meant we were able to work much more effectively the following morning.
+</p>
 
-## <h2 id="softskills">Soft Skills</h2>
-* Growth mindset and enthusiasm to learn
-* Calm communication and conflict resolution
-* Methodical approach to problem understanding and solving
+ <h3>Problem understanding and solving</h3>
+ <p>During projects, when teammates experienced a logic based blocker, I was the person who was called to go into a deep think and understand how the system needed to work. This combined with an insistence on gaining visibility step by step on bugs meant I was able to methodically free myself and others from technical blockers.</p>
 * Eager to work in a team, accept feedback, and learn from others
-
+* Calm communication and conflict resolution
 
 ## <h2 id="education"> Education. </h2>
 

@@ -39,8 +39,9 @@ _Your job title_
 
  <h3>Problem understanding and solving</h3>
  <p>During projects, when teammates experienced a logic based blocker, I was the person who was called to go into a deep think and understand how the system needed to work. This combined with an insistence on gaining visibility step by step on bugs meant I was able to methodically free myself and others from technical blockers.</p>
-* Eager to work in a team, accept feedback, and learn from others
-* Calm communication and conflict resolution
+
+<h3>Learning by doing</h3>
+<p>Despite not having a technical background I started coding being self-taught and was happy to dive into concepts such as design patterns, dynamic programming, and algorithms. This made other learning easier as I was confident I could pick up new technologies or ideas.</p>
 
 ## <h2 id="education"> Education. </h2>
 
@@ -64,8 +65,9 @@ _Your job title_
 That in some arguable way make you a better software developer or well-rounded person
 -->
 ##  <h2 id="hobbies">Hobbies </h2>
-* Bouldering
-* Reading
+* Bouldering: I love it as a break from sitting at a screen all day, and although being a solo sport it's very social as you can cheer everyone on.
+* Reading: I need a way to decompress after work and I find reading tremendously relaxing.
+* Meeting new people: I'm always interested to hear about new experiences and perspectives.
 
 ## <h2 id="contact">Contact Details </h2>
 [Linkedin](https://www.linkedin.com/in/kenny-sweeney-baird-619292200/)
